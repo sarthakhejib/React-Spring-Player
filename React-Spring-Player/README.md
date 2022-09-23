@@ -37,12 +37,7 @@
 
 Start developing locally.
 
-#### Step-1
-
-clone this repo
-
-```sh
-https://github.com/apshada/React-Spring-Player.git
+#### Step-1 https://github.com/sarthakhejib/React-Spring-Player
 ```
 
 #### Step-2
